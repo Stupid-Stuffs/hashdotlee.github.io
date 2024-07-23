@@ -1,5 +1,5 @@
 ---
-title: Gửi Đạt yêu dâu
+title: Gửi Đạt yêu dấu
 authors:
   - hash 
 ---
